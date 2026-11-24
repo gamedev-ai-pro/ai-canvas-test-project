@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "templates": [
+    {
+      "name": "纸质色块变体",
+      "prompt": "保留@图片1的重叠构图，将主色改为靛蓝和沙色，表现哑光纸的纤维。画面中没有文字或标记。",
+      "provider": "codex",
+      "model": "gpt-image-2",
+      "size": "1024x1024",
+      "quality": "low",
+      "background": "opaque",
+      "count": 1,
+      "id": "127761e2-ca22-4c64-be19-4ce2f4677dca",
+      "references": [
+        {
+          "id": "464e13c4-62f5-4ee8-950d-662f9c5507e0"
+        }
+      ],
+      "createdAt": 1795542664926,
+      "updatedAt": 1795542664926
+    },
+    {
+      "id": "86302404-d3c3-4032-b2ef-ea78df1c8982",
+      "name": "柔光静物",
+      "prompt": "在米白背景上拍摄一个灰绿色陶杯和一枝银杏叶，使用柔和侧光。画面中没有文字或标记。",
+      "provider": "codex",
+      "model": "gpt-image-2",
+      "size": "1024x1024",
+      "quality": "low",
+      "background": "opaque",
+      "count": 1,
+      "references": [],
+      "createdAt": 1795542664924,
+      "updatedAt": 1795542664924
+    }
+  ]
+}
